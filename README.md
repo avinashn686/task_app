@@ -2,6 +2,9 @@
 a task management app that has been created in nodejs
 database used in this project is mysqlite3 there are apis created for create update delete and listing
 
+
+just install node 
+use "node app.js" to run the project
 create api
 
 /tasks
